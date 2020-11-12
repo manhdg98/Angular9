@@ -1,5 +1,4 @@
-#1: Update basic code 
+#2: Remove space
 
 Description: 
- - Import Bootstrap 4
- - Update code 
+ - Remove space
